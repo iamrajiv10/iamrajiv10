@@ -1,4 +1,4 @@
-![MasterHead](https://www.fluttercampus.com/img/uploads/2022/03/fb2fcd534b0ff3bbed73cc51df620323.gif)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w)
 
 <h1> Hello World , I'm Chanchal <img alt="coding" height="40px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> </h1>
 
