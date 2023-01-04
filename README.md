@@ -1,6 +1,6 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w)
 
-<h1> Hello World , I'm Rajiv <img alt="coding" height="40px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> </h1>
+<h1 align="center"> Hello World , I'm Rajiv <img alt="coding" height="40px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> </h1>
 
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
