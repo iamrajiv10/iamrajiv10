@@ -1,6 +1,6 @@
 <h1> Hello World , I'm Chanchal <img alt="coding" height="40px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> </h1>
 
-<img align="right" alt="coding" width="300" src="[https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Backend part for creating API's using Nodejs , Express , JavaScript and manipulate the data using MongoDb .<br>🌱 I’m currently learning  React Js.<br>👯 I’m looking to collaborate in JavaScript projects.<br>💬 Ask me about ... Anything<br>😄 Pronouns: he/his<br>⚡ Fun fact: Fun fact: All polar bears are left handed .<br>✨ Eat ↔ Code ↔ Sleep↔Repeat
